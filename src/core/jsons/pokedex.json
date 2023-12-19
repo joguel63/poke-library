@@ -1,0 +1,359 @@
+[
+  {
+    "nombre": "Bulbasaur",
+    "descripcion": "Un Pokémon reptil con una semilla en su espalda. La semilla se alimenta de la luz solar y, a medida que Bulbasaur crece, la semilla también lo hace.",
+    "tipos": ["Planta", "Veneno"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "id": 1
+  },
+  {
+    "nombre": "Ivysaur",
+    "descripcion": "Un Pokémon reptil con una gran semilla en su espalda. La semilla absorbe la luz solar y le proporciona energía. Ivysaur puede disparar semillas venenosas por su boca.",
+    "tipos": ["Planta", "Veneno"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+    "id": 2
+  },
+  {
+    "nombre": "Venusaur",
+    "descripcion": "Un Pokémon reptil con una gran flor en su espalda. La flor es muy sensible a los cambios en el clima y puede predecir el tiempo. Venusaur puede disparar potentes rayos solares por su boca.",
+    "tipos": ["Planta", "Veneno"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+    "id": 3
+  },
+  {
+    "nombre": "Charmander",
+    "descripcion": "Un Pokémon reptil con una cola de fuego. La cola es una fuente constante de calor y se apaga cuando Charmander muere. Charmander puede lanzar llamas por su boca.",
+    "tipos": ["Fuego"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "id": 4
+  },
+  {
+    "nombre": "Charmeleon",
+    "descripcion": "Un Pokémon reptil con una cola de fuego más grande. La cola se puede encender aún más cuando Charmeleon se emociona. Charmeleon puede lanzar llamas más grandes y potentes que Charmander.",
+    "tipos": ["Fuego"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+    "id": 5
+  },
+  {
+    "nombre": "Charizard",
+    "descripcion": "Un Pokémon reptil con alas. Puede volar a velocidades supersónicas y lanzar poderosas llamas de su boca. Charizard puede incluso respirar fuego de hielo.",
+    "tipos": ["Fuego", "Volador"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+    "id": 6
+  },
+  {
+    "nombre": "Squirtle",
+    "descripcion": "Un Pokémon mamífero con una cola en forma de tortuga. Squirtle puede disparar chorros de agua por su boca.",
+    "tipos": ["Agua"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "id": 7
+  },
+  {
+    "nombre": "Wartortle",
+    "descripcion": "Un Pokémon mamífero con una cola en forma de tortuga más grande. Wartortle puede disparar chorros de agua más potentes que Squirtle.",
+    "tipos": ["Agua"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+    "id": 8
+  },
+  {
+    "nombre": "Blastoise",
+    "descripcion": "Un Pokémon mamífero con dos cañones en su espalda. Blastoise puede disparar potentes chorros de agua por sus cañones.",
+    "tipos": ["Agua"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+    "id": 9
+  },
+  {
+    "nombre": "Caterpie",
+    "descripcion": "Un Pokémon insecto con una gran boca. Caterpie puede usar su boca para comer hojas.",
+    "tipos": ["Bicho"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+    "id": 10
+  },
+  {
+    "nombre": "Metapod",
+    "descripcion": "Un Pokémon insecto con una capa dura como una roca. Metapod no se mueve mucho, pero puede endurecer su capa para protegerse.",
+    "tipos": ["Bicho"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+    "id": 11
+  },
+  {
+    "nombre": "Butterfree",
+    "descripcion": "Un Pokémon insecto con alas grandes y coloridas. Butterfree puede esparcir polvo venenoso de sus alas.",
+    "tipos": ["Bicho", "Volador"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+    "id": 12
+  },
+  {
+    "nombre": "Weedle",
+    "descripcion": "Un Pokémon insecto con un aguijón venenoso en su cabeza. Weedle tiene un aguijón en su cola también.",
+    "tipos": ["Bicho", "Veneno"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+    "id": 13
+  },
+  {
+    "nombre": "Kakuna",
+    "descripcion": "Un Pokémon insecto con una capa dura como una roca. Kakuna no se mueve mucho, pero puede endurecer su capa para protegerse.",
+    "tipos": ["Bicho", "Veneno"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+    "id": 14
+  },
+  {
+    "nombre": "Beedrill",
+    "descripcion": "Un Pokémon insecto con un aguijón venenoso en su cabeza. Beedrill tiene un aguijón en su cola también.",
+    "tipos": ["Bicho", "Veneno"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+    "id": 15
+  },
+  {
+    "nombre": "Pidgey",
+    "descripcion": "Un Pokémon pájaro pequeño. Pidgey es muy dócil, pero si se asusta, puede atacar con su pico.",
+    "tipos": ["Normal", "Volador"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+    "id": 16
+  },
+  {
+    "nombre": "Pidgeotto",
+    "descripcion": "Un Pokémon pájaro con alas grandes y coloridas. Pidgeotto puede volar a grandes alturas y es muy hábil para atrapar presas.",
+    "tipos": ["Normal", "Volador"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+    "id": 17
+  },
+  {
+    "nombre": "Pidgeot",
+    "descripcion": "Un Pokémon pájaro con alas grandes y coloridas. Pidgeot puede volar a grandes alturas y es muy hábil para atrapar presas.",
+    "tipos": ["Normal", "Volador"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+    "id": 18
+  },
+  {
+    "nombre": "Rattata",
+    "descripcion": "Un Pokémon ratón. Rattata es cauteloso en extremo. Incluso cuando está durmiendo, se mantiene alerta en caso de que se le acerque algún enemigo.",
+    "tipos": ["Normal"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+    "id": 19
+  },
+  {
+    "nombre": "Raticate",
+    "descripcion": "Un Pokémon ratón. Raticate tiene unos incisivos muy fuertes y afilados. De vez en cuando, se le caen los incisivos y le salen otros nuevos.",
+    "tipos": ["Normal"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+    "id": 20
+  },
+  {
+    "nombre": "Spearow",
+    "descripcion": "Un Pokémon pájaro pequeño. Spearow tiene un pico muy afilado que usa para picotear a sus presas.",
+    "tipos": ["Normal", "Volador"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+    "id": 21
+  },
+  {
+    "nombre": "Fearow",
+    "descripcion": "Un Pokémon pájaro con un pico muy afilado. Fearow puede volar a grandes alturas y es muy hábil para atrapar presas.",
+    "tipos": ["Normal", "Volador"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+    "id": 22
+  },
+  {
+    "nombre": "Ekans",
+    "descripcion": "Un Pokémon serpiente. Ekans se enrosca en su presa y la aprieta hasta que deja de respirar.",
+    "tipos": ["Veneno"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+    "id": 23
+  },
+  {
+    "nombre": "Arbok",
+    "descripcion": "Un Pokémon serpiente. Arbok tiene un aguijón venenoso en su cola. Cuando se siente amenazado, puede soltar un olor muy desagradable.",
+    "tipos": ["Veneno"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+    "id": 24
+  },
+  {
+    "nombre": "Pikachu",
+    "descripcion": "Un Pokémon ratón. Pikachu tiene bolsas en las mejillas que almacenan electricidad. Pikachu carga su electricidad frotando sus mejillas entre sí.",
+    "tipos": ["Eléctrico"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+    "id": 25
+  },
+  {
+    "nombre": "Raichu",
+    "descripcion": "Un Pokémon ratón. Raichu tiene bolsas en las mejillas que almacenan electricidad. Raichu carga su electricidad frotando sus mejillas entre sí.",
+    "tipos": ["Eléctrico"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+    "id": 26
+  },
+  {
+    "nombre": "Sandshrew",
+    "descripcion": "Un Pokémon ratón. Sandshrew tiene una piel muy dura y seca. La piel se le cae a medida que crece.",
+    "tipos": ["Tierra"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+    "id": 27
+  },
+  {
+    "nombre": "Sandslash",
+    "descripcion": "Un Pokémon ratón. Sandslash tiene una piel muy dura y seca. La piel se le cae a medida que crece.",
+    "tipos": ["Tierra"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+    "id": 28
+  },
+  {
+    "nombre": "Nidoran♀",
+    "descripcion": "Un Pokémon veneno. Nidoran♀ tiene un cuerno pequeño en la cabeza que libera una toxina muy potente.",
+    "tipos": ["Veneno"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+    "id": 29
+  },
+  {
+    "nombre": "Nidorina",
+    "descripcion": "Un Pokémon veneno. Nidorina tiene un cuerno pequeño en la cabeza que libera una toxina muy potente.",
+    "tipos": ["Veneno"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+    "id": 30
+  },
+  {
+    "nombre": "Nidoqueen",
+    "descripcion": "Un Pokémon veneno. Nidoqueen tiene un cuerno pequeño en la cabeza que libera una toxina muy potente.",
+    "tipos": ["Veneno", "Tierra"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
+    "id": 31
+  },
+  {
+    "nombre": "Nidoran♂",
+    "descripcion": "Un Pokémon veneno. Nidoran♂ tiene un cuerno pequeño en la cabeza que libera una toxina muy potente.",
+    "tipos": ["Veneno"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
+    "id": 32
+  },
+  {
+    "nombre": "Nidorino",
+    "descripcion": "Un Pokémon veneno. Nidorino tiene un cuerno pequeño en la cabeza que libera una toxina muy potente.",
+    "tipos": ["Veneno"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
+    "id": 33
+  },
+  {
+    "nombre": "Nidoking",
+    "descripcion": "Un Pokémon veneno. Nidoking tiene un cuerno pequeño en la cabeza que libera una toxina muy potente.",
+    "tipos": ["Veneno", "Tierra"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
+    "id": 34
+  },
+  {
+    "nombre": "Clefairy",
+    "descripcion": "Un Pokémon hada. Clefairy tiene orejas muy sensibles. Puede escuchar un huevo a punto de eclosionar a kilómetros de distancia.",
+    "tipos": ["Hada"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+    "id": 35
+  },
+  {
+    "nombre": "Clefable",
+    "descripcion": "Un Pokémon hada. Clefable tiene orejas muy sensibles. Puede escuchar un huevo a punto de eclosionar a kilómetros de distancia.",
+    "tipos": ["Hada"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+    "id": 36
+  },
+  {
+    "nombre": "Vulpix",
+    "descripcion": "Un Pokémon zorro. Vulpix tiene una cola muy llamativa. La cola se divide en seis si Vulpix recibe mucho cariño de su Entrenador.",
+    "tipos": ["Fuego"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+    "id": 37
+  },
+  {
+    "nombre": "Ninetales",
+    "descripcion": "Un Pokémon zorro. Ninetales tiene una cola muy llamativa. La cola se divide en seis si Ninetales recibe mucho cariño de su Entrenador.",
+    "tipos": ["Fuego"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+    "id": 38
+  },
+  {
+    "nombre": "Jigglypuff",
+    "descripcion": "Un Pokémon globo. Jigglypuff tiene una voz muy aguda que puede hacer que la gente se quede dormida.",
+    "tipos": ["Normal", "Hada"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+    "id": 39
+  },
+  {
+    "nombre": "Wigglytuff",
+    "descripcion": "Un Pokémon globo. Wigglytuff tiene una voz muy aguda que puede hacer que la gente se quede dormida.",
+    "tipos": ["Normal", "Hada"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+    "id": 40
+  },
+  {
+    "nombre": "Zubat",
+    "descripcion": "Un Pokémon murciélago. Zubat tiene unos ojos muy sensibles que le permiten ver en la oscuridad.",
+    "tipos": ["Veneno", "Volador"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
+    "id": 41
+  },
+  {
+    "nombre": "Golbat",
+    "descripcion": "Un Pokémon murciélago. Golbat tiene unos ojos muy sensibles que le permiten ver en la oscuridad.",
+    "tipos": ["Veneno", "Volador"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+    "id": 42
+  },
+  {
+    "nombre": "Oddish",
+    "descripcion": "Un Pokémon planta. Oddish tiene una gran hoja en la cabeza que le permite absorber los rayos del sol. Cuando la hoja se marchita, Oddish busca un lugar húmedo y seco para enterrar sus raíces.",
+    "tipos": ["Planta", "Veneno"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
+    "id": 43
+  },
+  {
+    "nombre": "Gloom",
+    "descripcion": "Un Pokémon planta. Gloom tiene una gran hoja en la cabeza que le permite absorber los rayos del sol. Cuando la hoja se marchita, Gloom busca un lugar húmedo y seco para enterrar sus raíces.",
+    "tipos": ["Planta", "Veneno"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
+    "id": 44
+  },
+  {
+    "nombre": "Vileplume",
+    "descripcion": "Un Pokémon planta. Vileplume tiene una gran hoja en la cabeza que le permite absorber los rayos del sol. Cuando la hoja se marchita, Vileplume busca un lugar húmedo y seco para enterrar sus raíces.",
+    "tipos": ["Planta", "Veneno"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
+    "id": 45
+  },
+  {
+    "nombre": "Paras",
+    "descripcion": "Un Pokémon insecto. Paras tiene un hongo en la espalda que crece con él. El hongo es muy nutritivo, pero si Paras se lo come, se quedará sin energía.",
+    "tipos": ["Bicho", "Planta"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+    "id": 46
+  },
+  {
+    "nombre": "Parasect",
+    "descripcion": "Un Pokémon insecto. Parasect tiene un hongo en la espalda que crece con él. El hongo es muy nutritivo, pero si Parasect se lo come, se quedará sin energía.",
+    "tipos": ["Bicho", "Planta"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
+    "id": 47
+  },
+  {
+    "nombre": "Venonat",
+    "descripcion": "Un Pokémon insecto. Venonat tiene unos ojos muy sensibles que le permiten ver en la oscuridad.",
+    "tipos": ["Bicho", "Veneno"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
+    "id": 48
+  },
+  {
+    "nombre": "Venomoth",
+    "descripcion": "Un Pokémon insecto. Venomoth tiene unos ojos muy sensibles que le permiten ver en la oscuridad.",
+    "tipos": ["Bicho", "Veneno"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
+    "id": 49
+  },
+  {
+    "nombre": "Diglett",
+    "descripcion": "Un Pokémon topo. Diglett vive bajo tierra, donde excava túneles. Para salir a la superficie, Diglett se pone a cavar.",
+    "tipos": ["Tierra"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+    "id": 50
+  },
+  {
+    "nombre": "Dugtrio",
+    "descripcion": "Un Pokémon topo. Dugtrio vive bajo tierra, donde excava túneles. Para salir a la superficie, Dugtrio se pone a cavar.",
+    "tipos": ["Tierra"],
+    "url_imagen": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
+    "id": 51
+  }
+]

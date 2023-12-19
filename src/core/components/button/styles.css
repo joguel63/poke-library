@@ -1,0 +1,27 @@
+.default_base_button {
+  background-color: #e3350d;
+  border-radius: 4px;
+  box-sizing: border-box;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  font-size: 16px;
+  height: 48px;
+  padding: 0 16px;
+  width: 100%;
+
+  &:hover {
+    background-color: #c22e0a;
+  }
+
+  &:active {
+    background-color: #a22a09;
+  }
+
+  &:disabled {
+    background-color: #bfbfbf;
+    cursor: not-allowed;
+  }
+
+  transition: background-color 0.2s ease-in-out;
+}

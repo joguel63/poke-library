@@ -1,0 +1,14 @@
+.default_base_email_input {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 16px;
+  height: 48px;
+  padding: 0 16px;
+  width: 100%;
+}
+
+.default_base_email_input_error {
+  color: #f44336;
+  display: block;
+}
